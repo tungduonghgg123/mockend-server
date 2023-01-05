@@ -1,18 +1,9 @@
 {
-  "Partner": {
-    "_": {
-      "items": 20
-    },
-    "name": {
-      "loremWord": {}
-    },
-    "color": {
-      "string": [
-        "#91a3b0",
-        "#400010",
-        "#c32148",
-        "#b5a642"
-      ]
+  "Partner": [
+    {
+      "name": "quang ngoc trinh",
+      "id": 1,
+      "color": "#5fff80"
     }
-  }
+  ]
 }
