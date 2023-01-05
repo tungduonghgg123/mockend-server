@@ -1,14 +1,18 @@
 {
   "Post": {
-    "_": { "items": 20 },
-    "title": { "string": [
-      "Thor",
-      "Loki"
-    ] },
-    "comments": { "hasMany": "Comment" }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": { "belongsTo": "Post" }
+    "_": {
+      "items": 20
+    },
+    "partner": {
+      "loremWord": {}
+    },
+    "color": {
+      "string": [
+        "#91a3b0",
+        "#400010",
+        "#c32148",
+        "#b5a642"
+      ]
+    }
   }
 }
