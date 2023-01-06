@@ -4,9 +4,7 @@
       "items": 7
     },
     "name": {
-      "string": [
-      "a","b","c", "d", "e", "f","g"
-      ]
+      "loremWord": {}
     },
     "color": {
       "string": [
