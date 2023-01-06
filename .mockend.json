@@ -1,13 +1,21 @@
 {
   "Partner": {
     "_": {
-      "items": 10
+      "items": 7
     },
     "name": {
       "loremWord": {}
     },
     "color": {
-      "regexp": "[0-9A-F]{6}"
+      "string": [
+        "#91a3b0",
+        "#808000",
+        "#c32148",
+        "#b5a642",
+        "#96c8a2",
+        "#d6cadd",
+        "#fbceb1"
+      ]
     }
   }
 }
