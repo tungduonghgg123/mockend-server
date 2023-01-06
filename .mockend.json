@@ -7,7 +7,7 @@
       "loremWord": {}
     },
     "color": {
-      { "regexp": "#[0-9A-F]{6}" }
+      "regexp": "#[0-9A-F]{6}"
     }
   }
 }
